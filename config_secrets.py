@@ -21,20 +21,20 @@ reddit_password = 'spidermanN00737151'
 cmc_api_key = '047317bb-e1a9-4b26-8fa2-975fafd80ac9'
 
 # Save locations
-ticker_excel_ouput_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/twitter/ticker_output/results_{current_date}.csv'
-ticker_backup_save_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/backup/twitter/ticker_output/results_{current_date}.csv'
-hash_excel_ouput_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/twitter/hash_output/results_{current_date}.csv'
-hash_backup_save_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/backup/twitter/hash_output/results_{current_date}.csv'
-unfound_excel_ouput_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/twitter/unfound_output/results_{current_date}.csv'
-unfound_backup_save_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/backup/twitter/unfound_output/results_{current_date}.csv'
-reddit_excel_ouput_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/reddit/results_{current_date}.csv'
-reddit_backup_save_location = f'/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/backup/reddit/results_{current_date}.csv'
+ticker_excel_ouput_location = f'./output/twitter/ticker_output/results_{current_date}.csv'
+ticker_backup_save_location = f'./output/backup/twitter/ticker_output/results_{current_date}.csv'
+hash_excel_ouput_location = f'./output/twitter/hash_output/results_{current_date}.csv'
+hash_backup_save_location = f'./output/backup/twitter/hash_output/results_{current_date}.csv'
+unfound_excel_ouput_location = f'./output/twitter/unfound_output/results_{current_date}.csv'
+unfound_backup_save_location = f'./output/backup/twitter/unfound_output/results_{current_date}.csv'
+reddit_excel_ouput_location = f'./output/reddit/results_{current_date}.csv'
+reddit_backup_save_location = f'./output/backup/reddit/results_{current_date}.csv'
 
 # Crypto Lexicon
-crypto_lexicon_update = '/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/crypto_lexicon_update.csv'
+crypto_lexicon_update = './crypto_lexicon_update.csv'
 
 # Data locations
-twitter_ticker = '/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/twitter/ticker_output/'
-reddit_ticker = '/Users/homeguest/Desktop/Geronimo/Geronimo Analytics/Crypto/social_score/social_score/output/reddit/'
+twitter_ticker = './output/twitter/ticker_output/'
+reddit_ticker = './output/reddit/'
 
 # Other
